@@ -1,2 +1,3 @@
-## Адаптивный сайт-витрина украшений ручной работы.
-Посмотреть можно [тут]
+## Adaptive website showcase of handmade jewelry.
+
+You can look [here](https://elenanaychuk.github.io/jewelry-showcase-website/)
